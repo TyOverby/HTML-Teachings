@@ -1,0 +1,19 @@
+body{
+	background-color:#ddddff;	
+}
+
+table{
+	border-width:3px;
+	border-style:solid;
+	border-color:black;
+}
+table.example>tbody>tr>td{
+	width:50%;
+	background-color:white;
+	
+	border-width:1px;
+	border-style:solid;
+	border-color:black;
+
+	vertical-align:top;
+}
