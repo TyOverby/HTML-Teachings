@@ -1,5 +1,8 @@
-body{
-	background-color:#ddddff;	
+
+html,body{
+	background-color:#f4f4ff;	
+	height:100%;
+	width:100%;
 }
 
 table{
